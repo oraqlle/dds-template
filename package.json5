@@ -1,0 +1,6 @@
+{
+    name: 'package-name',
+    version: '0.0.1',
+    namespace: 'namespace',
+    test_driver: 'Catch-Main'
+}
